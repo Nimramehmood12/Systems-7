@@ -1,0 +1,1 @@
+Prints a seeded 4x4 matrix, slices, means, sums, maxima, squared values, transpose, Gram matrix, and determinant.

@@ -1,0 +1,4 @@
+Missing before: Age 3, Score 3, Category 2.
+Missing after: Age 0, Score 0, Category 0.
+Age uses median imputation, Score uses mean imputation, and Category uses mode imputation.
+A cleaning_comparison.png visualization is generated.

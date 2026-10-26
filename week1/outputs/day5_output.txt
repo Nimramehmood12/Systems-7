@@ -1,0 +1,3 @@
+Deposit 250.00 -> balance 750.00
+Withdraw 120.00 -> balance 630.00
+Withdraw 900.00 -> denied for insufficient funds.

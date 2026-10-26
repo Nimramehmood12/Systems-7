@@ -1,0 +1,10 @@
+Salary mean: 71625.00
+Salary minimum: 50000.00
+Salary maximum: 105000.00
+
+Grouped salary averages:
+Engineering: 90000.00
+HR: 52000.00
+Marketing: 64500.00
+
+Creates employee_data.csv and employee_analysis.png.

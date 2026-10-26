@@ -1,0 +1,2 @@
+Example: 12 + 4 produces Result: 16.0.
+Division by zero is rejected safely.
